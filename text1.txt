@@ -1,1 +1,3 @@
 This is my first git example.
+
+This is the second change.
